@@ -1,4 +1,4 @@
-# D Mart Sales Analysis Dashboard — Power BI
+# D Mart Sales Analysis Dashboard - Power BI
 
 ## Overview
 An interactive sales dashboard built in Power BI analyzing D Mart's FY 2023 sales data.
